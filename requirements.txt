@@ -1,0 +1,6 @@
+pip==21.0.1
+pandas==0.24.0
+fuzzywuzzy==0.18.0
+pycryptodome==3.10.1
+selenium==3.141.0
+webdriver_manager==3.4.0
